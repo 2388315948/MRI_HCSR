@@ -1,0 +1,12 @@
+{
+  "best_fold": 5,
+  "weights": "fold_5/weights/best.pt",
+  "selection_rule": "mAP50-95 > mAP50 > Recall > Precision",
+  "metrics": {
+    "Precision": 0.9989395247537859,
+    "Recall": 1.0,
+    "mAP50": 0.995,
+    "mAP50-95": 0.9876478896103893,
+    "Fitness": 0.9876478896103893
+  }
+}
